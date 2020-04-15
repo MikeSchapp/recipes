@@ -4,7 +4,7 @@
 - Salt
 - Black Pepper
 - Chicken Stock(halfway covering the potatoes.)
-- 3 TBSP Butter
+- 3 tbsp Butter
 
 ## Instructions
 
