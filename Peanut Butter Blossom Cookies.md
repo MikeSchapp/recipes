@@ -16,5 +16,5 @@ Make an indentation in center of each ball with a thumb or spoon.
 3)Bake at 375 degrees for 8-10 minutes or until lightly browned. Remove cookies from overn
 and press a kiss in the center of each cookie. Transfer to wire rack to cool completely.
 
-##Yield
+## Yield
 4 dozen
