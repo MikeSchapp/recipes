@@ -12,6 +12,7 @@ class RecipeRenderer:
             "dessert": "Dessert",
             "dinner": "Dinner",
             "gluten_free": "Gluten Free",
+            "side_dishes": "Side Dishes",
             "sauces": "Sauces",
             "smoked_foods": "Smoked Foods"
         }
