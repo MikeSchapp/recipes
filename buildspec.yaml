@@ -9,7 +9,7 @@ phases:
       pip install -r requirements.txt
       python -m deploy
       mkdocs build
-  artifacts":
-    base-directory: site/
-    files:
-      - "**/*"
+artifacts":
+  base-directory: site/
+  files:
+    - "**/*"
