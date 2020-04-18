@@ -12,6 +12,7 @@
 ## Instructions
 1) Brown the ground beef and drain. Place in a crock pot. Mix half of the taco seasoning with the
 hamburger. 
+
 2) Add remaining ingredients to the crock pot and top with remaining taco seasoning. Stir and
 cook all day on low.
 
