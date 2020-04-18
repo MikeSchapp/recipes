@@ -1,29 +1,27 @@
-site_name: Schapp Recipes
 nav:
-    - Home: index.md
-    - 'Recipes':
-        - 'Appetizers':
-            - Maryland Crab Dip: 'appetizers/Maryland Crab Dip.md'
-            - Old North State Clam Chowda: 'appetizers/Old North State Clam Chowda.md'
-            - Sheri's Pineapple Dip: "appetizers/Sheri's Pineapple Dip.md"
-        - 'Smoked Foods':
-            - Great Grandpa's Smoked Bluefish": "smoked_foods/Great Grandpa's Smoked Bluefish.md"
-            - Uncle Chris' Deer Jerky: "smoked_foods/Uncle Chris' Deer Jerky.md"
-        - 'Dinner':
-              - "Chicken & Sun Dried Tomatoes over Pasta": "dinner/Chicken & Sun Dried Tomatoes over Pasta.md"
-              - "Chicken Croissants": "dinner/Chicken Croissants.md"
-              - "Instant Pot Chilli": "dinner/Instant Pot Chilli.md"
-              - "Reverse Sear Steak": "dinner/Reverse Sear Steak.md"
-              - "Saffron Orzo with Shrimp": "dinner/Saffron Orzo with Shrimp.md"
-              - "Taco Soup": "dinner/Taco Soup.md"
-              - "Weeknight Pork Chops": "dinner/Weeknight Pork Chops.md"
-        - 'Dessert':
-            - "Peanut Butter Blossom Cookies": "dessert/Peanut Butter Blossom Cookies.md"
-        - 'Gluten-Free':
-              - "Gluten Free Tempura Batter": "gluten_free/Gluten Free Tempura Batter.md"
-        - 'Side Dishes':
-            - "Jacques Pepin Potatoes": "side_dishes/Jacques Pepin Potatoes.md"
-        - 'Sauces':
-            - "Pad See Ew Sauce": "sauces/Pad See Ew Sauce.md"
-
+- Home: index.md
+- Recipes:
+  - Appetizers:
+    - Sheri's Pineapple Dip: appetizers/Sheri's Pineapple Dip.md
+    - Maryland Crab Dip: appetizers/Maryland Crab Dip.md
+    - Old North State Clam Chowda: appetizers/Old North State Clam Chowda.md
+  - Dessert:
+    - Peanut Butter Blossom Cookies: dessert/Peanut Butter Blossom Cookies.md
+  - Dinner:
+    - Instant Pot Chilli: dinner/Instant Pot Chilli.md
+    - Reverse Sear Steak: dinner/Reverse Sear Steak.md
+    - Chicken & Sun Dried Tomatoes over Pasta: dinner/Chicken & Sun Dried Tomatoes
+        over Pasta.md
+    - Chicken Croissants: dinner/Chicken Croissants.md
+    - Saffron Orzo with Shrimp: dinner/Saffron Orzo with Shrimp.md
+    - Weeknight Pork Chops: dinner/Weeknight Pork Chops.md
+    - Taco Soup: dinner/Taco Soup.md
+  - Gluten Free:
+    - Gluten Free Tempura Batter: gluten_free/Gluten Free Tempura Batter.md
+  - Sauces:
+    - Pad See Ew Sauce: sauces/Pad See Ew Sauce.md
+  - Smoked Foods:
+    - Uncle Chris' Deer Jerky: smoked_foods/Uncle Chris' Deer Jerky.md
+    - Great Grandpa's Smoked Bluefish: smoked_foods/Great Grandpa's Smoked Bluefish.md
+site_name: Schapp Recipes
 theme: readthedocs
