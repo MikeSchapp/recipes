@@ -6,9 +6,9 @@ phases:
       python: 3.8
   build:
     commands:
-      pip install -r requirements.txt
-      python -m deploy
-      mkdocs build
+    - pip install -r requirements.txt
+    - python -m deploy
+    - mkdocs build
 artifacts":
   base-directory: site/
   files:
