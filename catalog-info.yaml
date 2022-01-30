@@ -7,4 +7,4 @@ metadata:
 spec:
   type: home-automation
   lifecycle: production
-  owner: best
+  owner: user:michael.schappacher
