@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: recipes
+  annotations:
+    github.com/project-slug: MikeSchapp/recipes
+spec:
+  type: home-automation
+  lifecycle: production
+  owner: best
