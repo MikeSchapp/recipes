@@ -5,6 +5,6 @@ metadata:
   annotations:
     github.com/project-slug: MikeSchapp/recipes
 spec:
-  type: other
-  lifecycle: unknown
+  type: home-automation
+  lifecycle: production
   owner: best
