@@ -25,6 +25,5 @@ nav:
     - Uncle Chris' Deer Jerky: smoked_foods/Uncle Chris' Deer Jerky.md
     - Great Grandpa's Smoked Bluefish: smoked_foods/Great Grandpa's Smoked Bluefish.md
 site_name: Schapp Recipes
-theme: readthedocs
 plugins:
   - techdocs-core
