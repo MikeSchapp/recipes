@@ -10,6 +10,6 @@ metadata:
       title: Website
       icon: website
 spec:
-  type: home-automation
+  type: service
   lifecycle: production
   owner: user:michael.schappacher
