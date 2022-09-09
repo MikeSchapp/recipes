@@ -1,7 +1,14 @@
+---
+tags:
+  - sausage
+  - breakfast
+  - cheese
+---
+
 # Recipe
 - 1 lb mild ground pork sausage
 - 1 lb hot ground pork sausage
-- 30 oz package froxen hash
+- 30 oz package frozen hash
 - 1 1/2 tsp salt
 - 1 cup shredder cheddar cheese
 
