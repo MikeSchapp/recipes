@@ -13,6 +13,7 @@ class RecipeRenderer:
             self.mkdocs_config = yaml.safe_load(mkdocs.read())
         self.recipe_type_map = {
             "appetizers": "Appetizers",
+            "breakfast": "Breakfast",
             "dessert": "Dessert",
             "dinner": "Dinner",
             "gluten_free": "Gluten Free",
