@@ -27,3 +27,5 @@ nav:
 site_name: Schapp Recipes
 theme:
   name: material
+plugins:
+  - tags
