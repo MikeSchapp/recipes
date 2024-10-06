@@ -13,5 +13,5 @@
 
 ## Instructions
 
-1) Mix all together!
-2) Shake before using
+1. Mix all together!
+2. Shake before using

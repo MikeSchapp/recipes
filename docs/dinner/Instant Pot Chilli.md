@@ -20,20 +20,20 @@
 - 1 Tablespoon Minced garlic
 
 ## Instructions
-1) Turn your instant pot to sauté and add the bacon.
+1. Turn your instant pot to sauté and add the bacon.
 
-2) Cook until crisp, stirring often to cook evenly.
+2. Cook until crisp, stirring often to cook evenly.
 
-3) Remove the bacon to a paper towel lined plate.
+3. Remove the bacon to a paper towel lined plate.
 
-4) Add the onions and peppers and cook until tender.
+4. Add the onions and peppers and cook until tender.
 
-5) Add the meat and cook until browned.
+5. Add the meat and cook until browned.
 
-6) Drain off any excess grease, we just tilt the pot and use a large spoon.
+6. Drain off any excess grease, we just tilt the pot and use a large spoon.
 
-7) Add all of the remaining ingredients and 3/4 of the bacon and stir to combine.
+7. Add all of the remaining ingredients and 3/4 of the bacon and stir to combine.
 
-8) Turn the instant pot to chili (if you don't have a "chili" setting, use the "manual" setting) and cook for 18-20 minutes*. Allow pressure to release for 10-15 minutes or quick release with the vent.
+8. Turn the instant pot to chili (if you don't have a "chili" setting, use the "manual" setting) and cook for 18-20 minutes*. Allow pressure to release for 10-15 minutes or quick release with the vent.
 
-9) Serve with limes, sour cream, cheese, and a little bacon!
+9. Serve with limes, sour cream, cheese, and a little bacon!

@@ -8,4 +8,4 @@
 
 ## Instructions
 
-1) Mix all together!
+1. Mix all together!

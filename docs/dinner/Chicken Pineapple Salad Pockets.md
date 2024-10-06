@@ -19,8 +19,8 @@ tags:
 - 2 whole wheat pita pockets, halved
 
 ## Instructions
-1) In a large bowl, mix the chicken , pineapple, cucumber, carrot, scalion, yogurt, almonds, salt and pepper until well combined.
+1. In a large bowl, mix the chicken , pineapple, cucumber, carrot, scalion, yogurt, almonds, salt and pepper until well combined.
 
-2) Divide the lettuce between the pita halves.
+2. Divide the lettuce between the pita halves.
 
-3) Spoon the chicken mixture into the pita pockets and serve.
+3. Spoon the chicken mixture into the pita pockets and serve.

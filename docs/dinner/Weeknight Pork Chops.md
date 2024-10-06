@@ -10,11 +10,11 @@
 - 1/4 cup Whipping Cream
 
 ## Instructions
-1) Coat both sides of pork chops with salt and pepper and fry on med-
+1. Coat both sides of pork chops with salt and pepper and fry on med-
 high for 2 minutes on each side in vegetable oil.
 
-2) Add orange juice and next three ingredients and bring to a boil.
+2. Add orange juice and next three ingredients and bring to a boil.
 Simmer covered for 15 minutes
 
-3) Remove pork chops. Add whipping cream to drippings and cook on
+3. Remove pork chops. Add whipping cream to drippings and cook on
 med-high heat for 5 minutes or until thickened.
