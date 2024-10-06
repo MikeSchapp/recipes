@@ -13,7 +13,7 @@ tags:
 - 5  Hot Italian Sausage Links
 
 ## Instructions
-1) Prepare sauce as documented in [Brown Butter Cinnamon Maple Sage Sauce](../sauces/Brown%20Butter%20Cinnamon%20Maple%20Sage%20Sauce)
+1) Prepare sauce as documented in [Brown Butter Cinnamon Maple Sage Sauce](../../sauces/Brown%20Butter%20Cinnamon%20Maple%20Sage%20Sauce)
 3) Start a pot of water to boil for the butternut squash ravioli
 4) Peel and dice apples
 5) Remove sausage from casing and fully cook, set sausage aside remove excess oil.
