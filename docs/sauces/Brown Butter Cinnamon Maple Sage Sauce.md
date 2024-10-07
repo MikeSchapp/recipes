@@ -19,7 +19,7 @@ tags:
 ## Instructions
 1. Follow instructions as laid out in [Brown Butter](../Brown%20Butter) recipe to create brown butter
 
-2. Before  [Brown Butter](../Brown%20Butter) xis complete, make sure to add the minced sage leaves
+2. Before  [Brown Butter](../Brown%20Butter) is complete, make sure to add the minced sage leaves
 
 3. When  [Brown Butter](../Brown%20Butter)  is complete add in Maple Syrup, and Cinnamon. Whisk it all together
 
