@@ -10,7 +10,7 @@
 *   3 1/2 ounces granulated sugar
 *   Brown food coloring, optional
 *   [**Chocolate Ganache**](
-    ../../dessert/Chocolate%20Ganache.md
+    ../../dessert/Chocolate%20Ganache
     )
 
 
