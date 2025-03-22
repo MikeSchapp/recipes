@@ -1,6 +1,6 @@
 **Yield:** 48 sandwich cookies
 
-#### Ingredients:
+#### Ingredients
 
 *   7 ounces confectioners' sugar
 *   2 teaspoons instant espresso powder
@@ -13,7 +13,7 @@
 
 **Chocolate Ganache (recipe included)**
 
-#### Instructions:
+#### Instructions
 
 1.  Preheat oven to 300°F and place a rack in the lower section of the oven. Line baking sheets with parchment paper or silicone mats. Make sure the pans are flat (not dented or warped) and the parchment is trimmed to fit pan. Using paper templates, trace circles onto the parchment or place them under the silicone mats.
 2.  To the bowl of a food processor fitted with a metal blade, process confectioners' sugar, espresso powder, and almond flour into a fine powder, about 30 seconds. Using a drum sieve, sift mixture onto a sheet of parchment paper three times and discard any coarse meal (no more than 1/2 teaspoon). Set aside.

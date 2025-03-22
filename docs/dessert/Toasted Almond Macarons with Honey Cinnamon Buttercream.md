@@ -1,4 +1,4 @@
-#### Ingredients:
+#### Ingredients
 
 * 7 ounces confectioners' sugar
 * 4 ounces almond flour

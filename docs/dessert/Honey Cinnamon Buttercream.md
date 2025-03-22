@@ -1,5 +1,5 @@
 Velvety smooth, buttercream is the king of frostings. This version is a Swiss meringue buttercream, which simply means that the egg whites and sugar are heated together before beating. The buttercream can also be flavored in many ways, which makes it very versatile. Any leftover buttercream freezes beautifully; it simply needs to be thawed to room temperature and re-whipped to be used another day. 
-#### Ingredients:
+#### Ingredients
 
 * 2 large (2 ounces) egg whites, at room temperature
 * 1/2 cup granulated sugar

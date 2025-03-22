@@ -1,4 +1,4 @@
-#### Recipe
+#### Ingredients
 
 - 14oz can of Sweetened Condensed Milk.
 - 3/4 cup of Creamy Peanut Butter.
