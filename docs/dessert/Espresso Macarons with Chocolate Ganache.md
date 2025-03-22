@@ -9,9 +9,10 @@
 *   1/8 teaspoon cream of tartar
 *   3 1/2 ounces granulated sugar
 *   Brown food coloring, optional
-*   **Chocolate Ganache** (recipe included)
+*   [**Chocolate Ganache**](
+    ../../dessert/Chocolate%20Ganache.md
+    )
 
-**Chocolate Ganache (recipe included)**
 
 #### Instructions
 
