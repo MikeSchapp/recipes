@@ -1,4 +1,4 @@
-# Recipe
+#### Recipe
 
 - 14oz can of Sweetened Condensed Milk.
 - 3/4 cup of Creamy Peanut Butter.
@@ -7,7 +7,7 @@
 - 1/3 cup Sugar.
 - 9 oz pkg Milk Chocolate Hershey Kisses.
 
-## Instructions
+#### Instructions
 
 1. Stir together sweetened condensed milk, peanut butter and vanilla until smooth.
 Add Biscuit mix, stirring well.
