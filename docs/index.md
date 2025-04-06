@@ -4,18 +4,18 @@ Welcome to our family recipe collection! This site contains a variety of recipes
 
 ## Categories
 
-- [Appetizers](./appetizers/): Dips, starters, and small bites to begin your meal
-- [Breakfast](./breakfast/): Morning meals and brunch items to start your day
-- [Dessert](./dessert/): Sweet treats and confections to satisfy your sweet tooth
-- [Dinner](./dinner/): Main courses and entrees for your evening meal
-- [Gluten Free](./gluten_free/): Recipes without gluten for those with dietary restrictions
-- [Sauces](./sauces/): Dressings, sauces, and condiments to enhance any dish
-- [Side Dishes](./side_dishes/): Accompaniments and sides to complete your meal
-- [Smoked Foods](./smoked_foods/): Smoked and cured recipes for unique flavor profiles
+- Appetizers: Dips, starters, and small bites to begin your meal
+- Breakfast: Morning meals and brunch items to start your day
+- Dessert: Sweet treats and confections to satisfy your sweet tooth
+- Dinner: Main courses and entrees for your evening meal
+- Gluten Free: Recipes without gluten for those with dietary restrictions
+- Sauces: Dressings, sauces, and condiments to enhance any dish
+- Side Dishes: Accompaniments and sides to complete your meal
+- Smoked Foods: Smoked and cured recipes for unique flavor profiles
 
 ## Contributing
 
-To contribute a new recipe, follow the template format as outlined in our [readme](../readme.md). All recipes should include:
+To contribute a new recipe, follow the template format as outlined in the readme at [github](https://github.com/MikeSchapp/recipes). All recipes should include:
 
 1. A clear, descriptive title
 2. A brief description
