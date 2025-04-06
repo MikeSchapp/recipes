@@ -1,29 +1,45 @@
 ---
 tags:
   - pasta
+  - vegetarian
   - lemon
-  - creamy
 ---
 
-# Recipe
-- 4 qts water
-- 2 and 3/4 tbsp salt
-- 3/4 cup extra virgin olive oil
-- 1 tbsp meyer lemon zest
-- 1 tsp honey
-- 3 medium shallots, minced
+# Creamy Lemon Pasta
+
+## Description
+
+A bright, silky pasta dish featuring fresh lemon flavor balanced with rich cream and sharp Parmesan cheese - ready in just 20 minutes.
+
+## Ingredients
+
+- 1 pound linguine or spaghetti
+- 2 lemons, zested and juiced
 - 1 cup heavy cream
-- 1 lb dried fettuccine
-- 2 tbsp fresh meyer lemon juice
-- 3 oz parmesan cheese, grated 
-- 1/2 tsp pepper
-- 1/3 cup meyer lemon supremes
+- 1/2 cup freshly grated Parmesan cheese, plus more for serving
+- 1/4 cup olive oil
+- 4 cloves garlic, minced
+- 1/2 teaspoon red pepper flakes (optional)
+- Salt and freshly ground black pepper, to taste
+- Fresh basil or parsley, chopped, for garnish
 
 ## Instructions
-1. Bring water to a boil in a large pot, and season with 2 tbsp salt.
 
-2. Meanwhile heat olive oil and lemon zest in a large skillet over medium heat. Add remaining salt, honey, and shallots and cook until shallots are soft, about 5 minutes. Whisk in cream and bring to a simmer.
+1. Bring a large pot of salted water to a boil. Add pasta and cook until al dente according to package directions. Reserve 1 cup of pasta water before draining.
 
-3. Add pasta to boiling water and cook until al dente, about 8 minutes. Reserve 1/2 cup pasta water, then drain pasta and return to pot. Add lemon juice to noodles and toss to coat.
+2. While pasta is cooking, combine lemon zest, lemon juice, olive oil, garlic, and red pepper flakes (if using) in a large skillet over medium heat. Cook for 2-3 minutes until garlic is fragrant but not browned.
 
-4. Stir cheese and 1/4 cup pasta water into cream sauce, then add to noodles and toss to coat. Season with pepper and serve topped with lemon supremes.
+3. Reduce heat to medium-low and add heavy cream to the skillet. Simmer gently for about 2 minutes.
+
+4. Add drained pasta to the skillet and toss to coat with the sauce. If sauce is too thick, add reserved pasta water a little at a time until desired consistency is reached.
+
+5. Remove from heat and stir in Parmesan cheese until melted and sauce is smooth. Season with salt and pepper to taste.
+
+6. Serve immediately, topped with additional Parmesan cheese and chopped herbs.
+
+## Notes
+
+- Preparation time: 5 minutes
+- Cooking time: 15 minutes
+- Serves: 4 people
+- For a lighter version, substitute half of the cream with reserved pasta water

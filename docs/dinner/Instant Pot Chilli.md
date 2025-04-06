@@ -1,39 +1,58 @@
-## Recipe
-- 1-1/2 Pounds Ground Beef
-- 6 Strips of Bacon good quality, chopped
-- 1 Can 15 ounces Kidney Beans, drained
-- 1 Can 15 ounces  Pinto beans, drained
-- 1 Can 15 ounces Black beans, drained
-- 1 Can 15 ounces Fire Roasted diced tomatoes with juice
-- 1 Can 6 ounce Tomato paste
-- 1 large Red onion chopped
-- 1 Red bell pepper seeded and chopped
-- 1 Jalapeño seeded and minced *optional
-- 2 Cups Beef stock
-- 1 Tablespoon Dried oregano
-- 2 Teaspoons ground cumin
-- 2 Teaspoons Kosher salt
-- 1 Teaspoon ground black pepper
-- 1 Teaspoon Smoked Paprika
-- 2 Tablespoons chili powder
-- 1 Tablespoon Worcestershire sauce
-- 1 Tablespoon Minced garlic
+---
+tags:
+  - beef
+  - beans
+  - instant pot
+  - dinner
+  - chili
+  - one pot
+---
+
+# Instant Pot Chilli
+
+## Description
+
+A quick and hearty chili made in the Instant Pot, featuring tender beef, beans, and robust spices for a comforting meal ready in a fraction of the traditional cooking time.
+
+## Ingredients
+
+- 3 pounds ground beef
+- 1 large onion, diced
+- 1 green bell pepper, diced
+- 1 can (28 oz) diced tomatoes
+- 1 can (14 oz) tomato sauce
+- 1 can (15 oz) kidney beans, drained
+- 1 can (15 oz) pinto beans, drained
+- 2 tablespoons chili powder
+- 1 tablespoon ground cumin
+- 1 teaspoon garlic powder
+- 1 teaspoon dried oregano
+- 1 teaspoon smoked paprika
+- 1/2 teaspoon cayenne pepper (adjust to taste)
+- 1 teaspoon salt
+- 1/2 teaspoon black pepper
+- 1 cup beef broth or water
 
 ## Instructions
-1. Turn your instant pot to sauté and add the bacon.
 
-2. Cook until crisp, stirring often to cook evenly.
+1. Set Instant Pot to Sauté mode. Add ground beef and cook until browned, breaking it up as it cooks. Drain excess grease if needed.
 
-3. Remove the bacon to a paper towel lined plate.
+2. Add diced onion and bell pepper to the pot and sauté for 3-4 minutes until softened.
 
-4. Add the onions and peppers and cook until tender.
+3. Add all spices (chili powder, cumin, garlic powder, oregano, smoked paprika, cayenne, salt, and pepper). Stir for 30 seconds until fragrant.
 
-5. Add the meat and cook until browned.
+4. Pour in diced tomatoes, tomato sauce, both types of beans, and beef broth. Stir to combine.
 
-6. Drain off any excess grease, we just tilt the pot and use a large spoon.
+5. Close the Instant Pot lid and set to Manual/Pressure Cook for 15 minutes at high pressure.
 
-7. Add all of the remaining ingredients and 3/4 of the bacon and stir to combine.
+6. When cooking is complete, allow natural pressure release for 10 minutes, then quick release any remaining pressure.
 
-8. Turn the instant pot to chili (if you don't have a "chili" setting, use the "manual" setting) and cook for 18-20 minutes*. Allow pressure to release for 10-15 minutes or quick release with the vent.
+7. Open the lid and stir. If the chili is too thin, use the Sauté function to simmer for a few minutes to thicken.
 
-9. Serve with limes, sour cream, cheese, and a little bacon!
+## Notes
+
+- Preparation time: 15 minutes
+- Cooking time: 30 minutes (including pressure build-up and release)
+- Serves: 8 people
+- Great topped with sour cream, shredded cheese, and diced green onions
+- Freezes well for up to 3 months

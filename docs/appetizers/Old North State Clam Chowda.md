@@ -1,46 +1,52 @@
-# Recipe
-- 2 ounces salt pork, very finely diced
-- 2 cups diced onion
-- 1 cup diced celery
-- 3 cups diced potato (sugar cube sized)
-- 1 tsp. dried thyme
-- 1 tsp. black pepper
-- 4 cups clams and juice
-- 1⁄2 cup salted butter
-- 1⁄2 cup all purpose flour
-- 1 1⁄2 quarts half-and-half or light cream
+---
+tags:
+  - seafood
+  - clam
+  - soup
+  - appetizer
+  - bacon
+  - potato
+---
+
+# Old North State Clam Chowda
+
+## Description
+
+A creamy, comforting North Carolina-style clam chowder that balances the brininess of fresh clams with the richness of bacon and cream.
+
+## Ingredients
+
+- 2 10 0z cans of clams use the juice too
+- 1/2 pound of bacon, cut and diced before cooking
+- 1 cup of onion, diced
+- 1 cup of celery, diced
+- 2 cups of potatoes, cubed
+- 1.5 cups of Half & Half
+- 3 tablespoons of flour
+- Pinch of thyme
+- Salt and pepper to taste
 
 ## Instructions
-1. Sauté the salt pork until the fat renders out and it is translucent. Use fatty bacon if you can’t find salt
-port, but most grocery stores have it. Sometimes it is called “cured side meat.” Looks like solid pork fat.
-Fat from country ham also works well.
 
-2. Add onions and celery and sauté 5 minutes. Keep a nice high heat and get a little caramelization.
-Don’t burn.
+1. Cook bacon in pot. When done remove bacon but save the grease.
 
-3. Pour in the 11⁄2 cups of clam juice, add potatoes, thyme & pepper. (Note: I add a little salt here
-usually).
+2. Add the onions and celery to the bacon grease and cook til tender.
 
-4. Put a lid on it and simmer until the potatoes are tender, about 10 minutes. Check to make sure they
-don’t get too soft.
+3. Add clam juice, water if needed, and the potatoes.
 
-5. Melt butter in a saucepan and add the flour. Cook over medium heat for 5 minutes, stirring
-occasionally, should bubble. At the same time add the cream to a third saucepan and set on
-medium/medium high. You want to “scald it” – not boil. Just get it hot so that little bubbles form in the
-corner and it is very hot. DO NOT BOIL. Just to be clear, DON’T mix with the flour-butter mixture.
+4. Cook until potatoes are done. Add bacon back to pot.
 
-6. Drain the clams (save the rest of the liquid). You may want to rinse the clams if they are sandy.
-Roughly chop them into the size you like.
+5. Make a roux with butter and flour. Add Half & Half to the roux and mix.
 
-7. Add the clams to the pot, simmer 2 minutes.
+6. Cook until thick and add to pot.
 
-8. Stir the butter/flour mixture into the pot of clams/onions and stir well. It will seize up into a nasty
-looking paste. If it doesn’t seize up and get thick, then get the mixture hotter. Stir occasionally and keep
-it sort of bubbling for 5 minutes. Don’t let the bottom burn.
+7. Add clams (cut up if necessary), thyme, salt, and pepper.
 
-9. Stir the cream in and mix well with a spoon. Remove from heat and serve. If it appears too thick, add
-a little clam juice. If you plan to serve the next day, it will thicken a little more once reheated – unless
-you almost boil it upon reheating. At the boiling point the chowder will get thinner again.
-## Variations 
-Add extra black pepper and some Cajun seasoning (a little oregano, cayenne, paprika, garlic
-powder and onion powder) and sometimes more salt until it tastes better.
+8. Simmer for 10 minutes.
+
+## Notes
+
+- Preparation time: 20 minutes
+- Cooking time: 35 minutes
+- Serves: 6 people
+- Can be refrigerated for up to 3 days

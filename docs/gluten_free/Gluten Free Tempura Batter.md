@@ -1,10 +1,28 @@
-# Recipe
-- 2 learge room temperature egg whites
+---
+tags:
+  - gluten-free
+  - japanese
+  - batter
+  - frying
+  - appetizer
+  - vegetables
+---
+
+# Gluten Free Tempura Batter
+
+## Description
+
+A light and crispy gluten-free tempura batter perfect for coating meats, seafood, tofu, or vegetables for frying.
+
+## Ingredients
+
+- 2 large room temperature egg whites
 - 2 cups of rice flour, divided, plus additional for dredging
 - 1 cup cold seltzer water
-- salt and pepper to taste
+- Salt and pepper to taste
 
 ## Instructions
+
 1. In a bowl, mix together 2 large room-temperature egg whites and 1 cup of rice or other non-wheat flour.
 Slowly add flour until the egg is entirely absorbed. The mixture should be lumpy at this point.
 
@@ -21,3 +39,8 @@ such as canola, corn, safflower, peanut, or sunflower, until batter is golden-br
 
 4. Remove from oil and drain on paper towels before serving hot.
 
+## Notes
+
+- Preparation time: 10 minutes
+- Best used immediately after mixing
+- Works well with any veggies, seafood, or meats

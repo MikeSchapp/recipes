@@ -1,40 +1,57 @@
 ---
 tags:
-  - dinner
-  - stew
-  - wine
   - beef
+  - onions
+  - wine
+  - dinner
 ---
 
-# Recipe
-- 1 lb pearl onions
-- 1/2 pound sliced bacon
-- 2 1/2 lbs beef stew meat or chuck roast, cut into 1 1/2 inch cubes
-- 2 tsp salt, plus more to taste
-- 1 1/2 tsp freshly ground black pepper
-- 1/2 tsp dried thyme
-- 2 tbsp all-purpose flour
-- 2 large carrots cut into 1/2 inch pieces
-- 4 cloves garlic, minced
-- 1 lb mushrooms, cut into 1/4 inch thick slices
-- 4 cups red wine
-- 1 tbsp tomato paste
-- 1 bay leaf
-- 1 tbsp chopped fresh parsley
-- Freshly cooked mashed potatoes. noodles or rice, for serving
+# Beef with Onions and Wine
+
+## Description
+
+A rustic, comforting beef dish slowly braised with sweet onions and red wine until fork-tender, creating a rich sauce perfect for serving over mashed potatoes or egg noodles.
+
+## Ingredients
+
+- 2 pounds beef chuck, cut into 1-inch cubes
+- 3 large onions, sliced into half-moons
+- 3 tablespoons olive oil, divided
+- 2 tablespoons all-purpose flour
+- 2 cups dry red wine
+- 2 cups beef broth
+- 3 cloves garlic, minced
+- 2 bay leaves
+- 1 teaspoon dried thyme
+- Salt and freshly ground black pepper, to taste
+- 2 tablespoons fresh parsley, chopped (for garnish)
 
 ## Instructions
-1. Preheat oven to 350 degrees F. Place onions in a small baking dish. Add 1/2 cup water and cover with foil. Bake until tender, about 30 minutes. Drain and set aside.
 
-2. In a large dutch oven, cook bacon over medium heat until crisp. Remove bacon and set aside. 
+1. Preheat oven to 325°F (165°C).
 
-3. Pat the beef dry with paper towels and season with salt, pepper and thyme. Sprinkle flour over the beef and toss to coat.
+2. Pat beef cubes dry with paper towels and season generously with salt and pepper.
 
-4. Add the beef to the bacon fat in the dutch oven and cook over medium-high heat until browned on all sides, about 5 minutes. Transfer the beef to a plate.
+3. Heat 2 tablespoons of olive oil in a large Dutch oven over medium-high heat. Brown the beef in batches, about 2-3 minutes per side. Do not overcrowd the pan. Transfer browned beef to a plate.
 
-5. Add the sliced onions, and carrots to the pan and cook, stirring over medium heat until tender and crisp, add the garlic and cook for 30 secs. Remove the vegatbles 
-to the side. Add the mushrooms and cook until tender, about 5 minutes.
+4. Reduce heat to medium and add remaining tablespoon of olive oil to the Dutch oven. Add sliced onions and cook, stirring occasionally, until deeply caramelized, about 15-20 minutes.
 
-6. Add back in all ingredients set aside along with the wine, tomato paste, bay leaf. Bring to a boil, reduce heat to low and simmer, covered, until the beef is tender, about 1 1/2 hours.
+5. Add minced garlic and cook for 1 minute until fragrant.
 
-7. Bring to a simmer and cover tightly transferring to the oven. Cook for about 2 hours then add in the bacon and pearl onions. Bake for 1 more hour. Remove from oven and stir in the parsley. Season with salt and pepper to taste. Serve with mashed potatoes, noodles or rice.
+6. Sprinkle flour over the onions and stir to coat. Cook for 2 minutes, stirring continuously.
+
+7. Slowly add red wine, scraping up any browned bits from the bottom of the pot. Bring to a simmer and cook for 5 minutes.
+
+8. Add beef broth, bay leaves, and thyme. Return the beef and any accumulated juices to the pot.
+
+9. Bring to a simmer, cover, and transfer to the preheated oven. Cook for 2-2.5 hours, or until beef is very tender.
+
+10. Remove bay leaves, season with additional salt and pepper if needed, and garnish with chopped parsley before serving.
+
+## Notes
+
+- Preparation time: 20 minutes
+- Cooking time: 2.5-3 hours
+- Serves: 6 people
+- Best made a day ahead as flavors improve overnight
+- Pairs well with mashed potatoes, egg noodles, or crusty bread

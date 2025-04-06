@@ -1,19 +1,73 @@
-#### Ingredients
+---
+tags:
+  - macarons
+  - almond
+  - honey
+  - cinnamon
+  - dessert
+  - baking
+  - french
+---
 
-* 7 ounces confectioners' sugar
-* 4 ounces almond flour
-* 4 large (4 ounces) egg whites, at room temperature
-* 1/8 teaspoon cream of tartar
-* 3 1/2 ounces granulated sugar
-* Honey Cinnamon Buttercream (recipe included)
-* 1 cup toasted finely chopped almonds
+# Toasted Almond Macarons with Honey Cinnamon Buttercream
 
-#### Instructions
-1. Preheat oven to 300°F and place a rack in the lower section of the oven. Line baking sheets with parchment paper or silicone mats. Make sure the pans are flat (not dented or warped) and the parchment is trimmed to fit pan. Using paper templates, trace circles onto the parchment or place them under the silicone mats. 
-2. To the bowl of a food processor fitted with a metal blade, process confectioners' sugar and almond flour into a fine powder, about 30 seconds. Using a drum sieve, sift mixture onto a sheet of parchment paper three times and discard any coarse meal (no more than 1/2 teaspoon). Set aside. 
-3. To prepare meringue: To the bowl of a stand mixer fitted with a whisk attachment, add egg whites and cream of tartar; whip whites on medium speed until foamy. Gradually add sugar, stopping to scrape down the sides of the bowl as needed. Once all the sugar is incorporated, continue to whip meringue into stiff glossy peaks. The meringue should have the consistency of shaving cream and should remain thick and stable. 
-4. To complete macaronnage step: Add one-third of the sifted flour mixture to the meringue and fold with the spatula. Once incorporated, add the remaining flour mixture, smearing the batter along the sides of the bowl and then folding back to the center, being careful not to overmix. Repeat until the batter becomes shiny and reaches the consistency of slow-moving lava. To check for the correct consistency, the batter should flow from your spatula like thick lava and hold a ribbon for a couple of seconds, then fall back into itself making a smooth glossy surface. If it falls in clumps and doesn't flow slowly, continue to fold gently, deflating the batter until the proper consistency is reached. 
-5. Transfer batter to a pastry bag fitted with a 1/2-inch plain round tip. Pipe a small dollop of batter into the corners of each baking sheet and lay parchment over (ink side down) and press down corners to secure. Using both hands to hold the pastry bag, pipe batter by placing the tip 1/2 inch above the parchment, and fill. Once the circle is filled, stop squeezing and make a quick upward and sideways motion to detach the batter and move to the next circle. (The batter should settle into a smooth and glossy round circle ) 
-6. Let macarons stand at room temperature until a firm skin forms on the macarons, 30 to 45 minutes. To check to see if the macarons are ready, lightly touch the side, and if your finger does not make a dent, they are ready for the oven. 
-7. Bake macarons one sheet at a time, rotating halfway through, until macarons are crisp and firm, 14 to 16 minutes. Carefully slide macaron topped parchment sheets onto a wire rack and allow macarons to cool completely before removing from paper and filling. 
-8. To assemble macarons: Pipe about 1 teaspoon of buttercream onto the flat side of a cooled macaron. Place another cookie, flat side down, over the filling and gently press just enough to push the filling out towards the edges. Spread chopped almonds onto a plate or a small rimmed baking sheet; roll the exposed buttercream in the toasted almonds. Once filled, macarons can be refrigerated in an airtight container up to 3 days. 
+## Description
+
+Delicate French almond meringue cookies with a toasty flavor, filled with smooth honey cinnamon buttercream - an elegant dessert for special occasions.
+
+## Ingredients
+
+- 1 3/4 cups (198g) confectioners' sugar
+- 1 cup (96g) almond flour, carefully measured then sifted
+- 3 large egg whites, room temperature
+- 1/4 teaspoon cream of tartar
+- Pinch of salt
+- 1/4 cup (50g) granulated sugar
+- 1/2 teaspoon vanilla extract
+- 1/2 teaspoon almond extract
+- 1/4 cup sliced almonds, toasted and finely chopped
+
+### Filling
+
+- [Honey Cinnamon Buttercream](../Honey%20Cinnamon%20Buttercream)
+
+## Instructions
+
+1. Line two baking sheets with parchment paper. Draw 1 1/2-inch circles on the paper, then flip the paper over.
+
+2. In a food processor, pulse confectioners' sugar and almond flour together for 30 seconds. Sift mixture through a fine-mesh sieve into a large bowl. Discard any large pieces that remain.
+
+3. In a stand mixer fitted with a whisk attachment, whip egg whites with cream of tartar and salt on medium speed until foamy. Gradually add granulated sugar and increase speed to high. Whip until stiff peaks form.
+
+4. Add vanilla and almond extract; whip until incorporated.
+
+5. Using a rubber spatula, fold the dry ingredients into the egg whites in three additions. The batter should flow slowly like lava when lifted with the spatula.
+
+6. Fold in 3 tablespoons of the toasted almond pieces.
+
+7. Transfer batter to a piping bag with a round tip. Pipe 1 1/2-inch rounds onto prepared sheets. Tap the sheets firmly against the counter to release air bubbles.
+
+8. Sprinkle remaining toasted almond pieces on top of half the macaron shells.
+
+9. Let macarons rest at room temperature until a skin forms on the surface, 30-60 minutes.
+
+10. Preheat oven to 300°F. Bake macarons one sheet at a time for 16-18 minutes, rotating halfway through.
+
+11. Let macarons cool completely on the sheets before removing.
+
+### Assembly
+
+1. Prepare [Honey Cinnamon Buttercream](../Honey%20Cinnamon%20Buttercream) as directed.
+
+2. Pipe buttercream on flat side of plain macaron shells, then top with almond-topped shells.
+
+3. Store in an airtight container in the refrigerator for 24 hours before serving to allow flavors to meld.
+
+## Notes
+
+- Preparation time: 1 hour
+- Resting time: 30-60 minutes
+- Cooking time: 16-18 minutes per batch
+- Maturing time: 24 hours
+- Makes about 24 filled macarons
+- For best results, measure ingredients by weight rather than volume

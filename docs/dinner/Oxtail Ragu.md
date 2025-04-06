@@ -1,4 +1,20 @@
-## Recipe
+---
+tags:
+  - beef
+  - oxtail
+  - italian
+  - slow cook
+  - dinner
+  - sauce
+---
+
+# Oxtail Ragu
+
+## Description
+
+A rich, slow-cooked Italian-style sauce featuring tender oxtail meat that falls off the bone, perfect served over pasta or creamy mashed potatoes.
+
+## Ingredients
 
 - 2.5 kg oxtail, chopped into 4cm chunks (ask your butcher to do this)
 - Olive oil
@@ -26,3 +42,10 @@
 7. Turn the heat up to high and bring to the boil, then pop the lid on and place in the hot oven for around 5 hours, or until the meat falls away from the bone, stirring every hour or so and adding a splash of water to loosen, if needed.
 8. Remove the pan from the oven and leave to cool for about 10 minutes. Using rubber gloves, strip the meat from the bones and return to the pan, discarding the bones.
 9. Add a good splash of Worcestershire sauce, season to taste, and enjoy with creamy mash and seasonal steamed greens.
+
+## Notes
+
+- Preparation time: 40 minutes
+- Cooking time: 5-6 hours
+- Serves: 6 people
+- This dish tastes even better the next day after flavors develop

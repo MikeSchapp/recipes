@@ -1,9 +1,25 @@
+---
+tags:
+  - potato
+  - side dish
+  - french
+  - butter
+  - herbs
+  - roasted
+---
+
 # Jacques Pepin Potatoes
 
-- Yukon Gold Potatoes(The smaller the better!)
+## Description
+
+A simple yet elegant potato preparation inspired by the renowned chef Jacques Pepin, featuring tender potatoes cooked in chicken stock until golden brown.
+
+## Ingredients
+
+- Yukon Gold Potatoes (The smaller the better!)
 - Salt
 - Black Pepper
-- Chicken Stock(halfway covering the potatoes.)
+- Chicken Stock (halfway covering the potatoes)
 - 3 tbsp Butter
 
 ## Instructions
@@ -23,3 +39,9 @@
 7. Cook in the butter leftover till they are golden brown in color.
 
 8. Enjoy!
+
+## Notes
+
+- Preparation time: 10 minutes
+- Cooking time: 30-40 minutes
+- Serves: 4 people
